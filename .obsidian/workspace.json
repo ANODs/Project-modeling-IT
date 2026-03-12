@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "65ad9cef76c8143f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b95a1900c32bbd68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3563bfc47afad0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7627ca1df5ffdaa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc4b79ddae405c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e589572aba1bc06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "32790f365633e856",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "20e2b06a6308ab77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d96e921513be7a32",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c92a5cbe8ab04c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9e322f60c9e109",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Texsoft/Texsoft.ru.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Texsoft.ru"
+            }
+          },
+          {
+            "id": "c5eaaae4f816d46a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Texsoft/Texsoft.ru.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Texsoft.ru"
+            }
+          },
+          {
+            "id": "87c4569ab54a7c2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "088626ad9d4f3914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Texsoft/Texsoft.ru.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Texsoft.ru"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "20e2b06a6308ab77",
+  "lastOpenFiles": [
+    "Архитектура/flows/Добавить процесс на диаграмму.md",
+    "Архитектура/flows/User flow.canvas",
+    "Архитектура/Процессы.md",
+    "Интерфейсы/Z.ai.md",
+    "images/Pasted image 20260227140703.png",
+    "images",
+    "Архитектура/flows",
+    "Позиционирование/Титульник.md",
+    "Позиционирование/Концепция и ЦА.md",
+    "Интерфейсы/Экраны.md",
+    "Архитектура/Сущности.md",
+    "Pasted image 20260227140442.png",
+    "images/Pasted image 20260227141250.png",
+    "images/Pasted image 20260227141319.png",
+    "Экраны.md",
+    "Интерфейсы/Экраны",
+    "Интерфейсы/Gemini_Generated_Image_zh44xrzh44xrzh44.jpeg",
+    "Интерфейсы",
+    "Архитектура",
+    "Позиционирование",
+    "2026-02-27.md",
+    "Без названия.canvas",
+    "03_Интерфейсы/С.canvas",
+    "01_Позиционирование/Титульник.md",
+    "02_Архитектура/Сущности.md",
+    "02_Архитектура/Процессы.md",
+    "03_Интерфейсы/Figma.md",
+    "03_Интерфейсы/Drawing 2026-02-27 13.45.22.excalidraw.md",
+    "01_Позиционирование/Концепция и ЦА.md",
+    "01_Позиционирование/Без названия.canvas",
+    "03_Интерфейсы",
+    "02_Архитектура",
+    "01_Позиционирование",
+    "Drawing 2025-08-04 13.33.47.excalidraw.md",
+    "Texsoft/Texsoft.ru.md",
+    "Задачи - карточки.canvas",
+    "Без названия 1.canvas",
+    "Untitled.canvas",
+    "Texsoft",
+    "Welcome.md"
+  ]
+}

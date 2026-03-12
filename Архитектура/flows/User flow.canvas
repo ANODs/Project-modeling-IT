@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f69ec0edecb23a0b","type":"text","text":"Создавайте в этой папке процессы как файлы.","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"608ed7c807d59100","type":"text","text":"Описывайте процессы","x":-127,"y":118,"width":250,"height":60},
+		{"id":"b2b099a7a50ebcae","x":-202,"y":280,"width":400,"height":154,"type":"file","file":"Архитектура/flows/Добавить процесс на диаграмму.md"}
+	],
+	"edges":[
+		{"id":"8b4779e74ed6f483","fromNode":"f69ec0edecb23a0b","fromSide":"bottom","toNode":"608ed7c807d59100","toSide":"top"},
+		{"id":"e2dc5ddaeb5df815","fromNode":"608ed7c807d59100","fromSide":"bottom","toNode":"b2b099a7a50ebcae","toSide":"top"}
+	]
+}
